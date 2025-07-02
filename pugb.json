@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "prod-live-cfentry.playbattlegrounds.com",
+		"prod-live-front.playbattlegrounds.com"
+        
+      ],
+      "domain_suffix": [
+        "playbattlegrounds.com"
+        
+
+      ]
+    }
+  ]
+}
